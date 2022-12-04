@@ -4,7 +4,7 @@ print(x_list)
 y_list = [5,6,7,8]
 
 #追加
-#.append
+x_list.append
 
 #削除
 x_list.remove(0)
