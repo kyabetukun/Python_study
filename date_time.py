@@ -1,6 +1,7 @@
 ### 日付、時間 ###
 from datetime import date,time,datetime
 import jpholiday
+
 #date
 d = date(2021,3,14) #dateはyear,month,dayを持っている
 print(d)
