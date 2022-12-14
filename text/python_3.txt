@@ -1,7 +1,7 @@
 - [x] 正規表現
 - [x] Dataclass
-- [] Json
-- [] Pytest
+- [x] Json
+- [x] Pytest
 - [] シリアライズ
 - [x] コマンドライン引数
 - [x]] 継承

@@ -22,3 +22,4 @@ for i in range(10):
 #内包表記
 study_list_3 = [i for i in range(10) if i % 2 ==1]
 print(study_list_3)
+
