@@ -1,2 +1,2 @@
 def func2():
-  print('func２です')
+  print('func2です')
